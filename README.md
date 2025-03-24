@@ -18,9 +18,10 @@ A collection of delicious recipes featured in the project. Created as part of th
 
 ```sh
 ├── Main page (index.html)
-├── Recipe pages (html/)
+├── Other pages (html/)
 ├── Styles (css/)
-└── Assets (images/)
+└── Assets (assets/)
+    └── Images (images/) 
 ```
 
 ## **Technologies Used**
